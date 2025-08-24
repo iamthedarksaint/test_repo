@@ -1,0 +1,2 @@
+I am using git!
+I am having fun learning git!!
