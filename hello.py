@@ -4,8 +4,8 @@ def hello():
     return print(f"Hello omoyami, {name}!")
 
 def add():
-    a = input("Please input first numbers: \n")
-    b = input("Input the second number: \n")
+    a = int(input("Please input first numbers: \n"))
+    b = int(input("Input the second number: \n"))
     c = a + b
     return print(f"The addition of both number gives {c}.")
 hello()
